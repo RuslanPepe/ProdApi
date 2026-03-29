@@ -1,3 +1,11 @@
+### demo
+DB:
+http://147.45.115.71:8080
+login: root
+(no password)
+
+http://147.45.115.71:8000 -api
+
 # TestProdApi
 
 #### Парсинг данных по API:
