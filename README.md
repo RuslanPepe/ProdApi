@@ -20,7 +20,7 @@ cd _docker
 docker-compose up -d
 ```
 ```
-http://localhost - проект.
+http://localhost:8000 - проект API.
 http://localhost:8080 - phpmyadmin.
 ```
 
